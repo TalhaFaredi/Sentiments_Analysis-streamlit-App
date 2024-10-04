@@ -1,4 +1,3 @@
-
 # Sentiment Analysis Web Application
 
 This project is a web-based application that predicts the sentiment of a given review (positive or negative) using a pre-trained deep learning model. The model is built using TensorFlow and Keras, and the app is created using Streamlit.
